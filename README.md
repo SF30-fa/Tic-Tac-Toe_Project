@@ -1,8 +1,9 @@
 ## Tic-Tac-Toe Game | Java Swing
 A simple Tic-Tac-Toe implementing program based on Java which allows 2 players to play the game on the same device on a Java GUI.
 
-<pre>
+
 ## Features 
+<pre>
 -Win or Draw detection
 -Player's turn
 -Restart game functionality
