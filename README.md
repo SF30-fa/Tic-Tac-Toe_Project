@@ -36,7 +36,7 @@ And finally, we have the Tie result:
 <img width="463" alt="image" src="https://github.com/user-attachments/assets/edbc3895-489c-4921-a8be-6ee897ae456b" />
 
 ## Inspiration
-Kenny Yip Coding's Tutorials on Java Swing (https://www.youtube.com/@KennyYipCoding).
+Kenny Yip Coding's Tutorials using Java Swing (https://www.youtube.com/@KennyYipCoding).
 
 ## How to run: 
 You must have a JDK implemented beforehand so that the awt and Swing libraries are supported.
